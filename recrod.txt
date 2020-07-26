@@ -1,0 +1,76 @@
+
+
+（dual_path+dice_coef_loss）论文补充实验
+fly 6 class Dice is :0.774982
+value 0 dice is :0.9922036
+value 200 dice is :0.8296212
+value 500 dice is :0.9328869
+value 600 dice is :0.88631094
+value 1220 dice is :0.33041707
+value 2221 dice is :0.6785573
+5 class ave dice is :0.7315587
+
+UNet
+fly 6 class Dice is :0.73836374
+value 0 dice is :0.98579305
+value 200 dice is :0.7706053
+value 500 dice is :0.89105916
+value 600 dice is :0.8851837
+value 1220 dice is :0.32074204
+value 2221 dice is :0.5497441
+5 class ave dice is :0.6834669
+
+v1
+fly 6 class Dice is :0.79681987
+value 0 dice is :0.9944301
+value 200 dice is :0.8340356
+value 500 dice is :0.9365506
+value 600 dice is :0.91171265
+value 1220 dice is :0.39302644
+value 2221 dice is :0.71124864
+5 class ave dice is :0.7573148
+
+v2
+fly 6 class Dice is :0.8499496
+value 0 dice is :0.9897267
+value 200 dice is :0.84795004
+value 500 dice is :0.9168547
+value 600 dice is :0.9311452
+value 1220 dice is :0.6306484
+value 2221 dice is :0.75961465
+5 class ave dice is :0.8172426
+
+v2 without path1
+fly 6 class Dice is :0.74524474
+value 0 dice is :0.98645973
+value 200 dice is :0.77389795
+value 500 dice is :0.8921361
+value 600 dice is :0.8920789
+value 1220 dice is :0.3227959
+value 2221 dice is :0.5778045
+5 class ave dice is :0.69174266
+
+
+v2 without IB 
+fly 6 class Dice is :0.7406996
+value 0 dice is :0.9862918
+value 200 dice is :0.7767857
+value 500 dice is :0.89145213
+value 600 dice is :0.8941034
+value 1220 dice is :0.30680475
+value 2221 dice is :0.5622279
+5 class ave dice is :0.68627477
+
+
+v2 without IB and path1
+fly 6 class Dice is :0.73955965
+value 0 dice is :0.9865309
+value 200 dice is :0.7821158
+value 500 dice is :0.8900402
+value 600 dice is :0.89153665
+value 1220 dice is :0.2998718
+value 2221 dice is :0.56050473
+5 class ave dice is :0.68481386
+
+
+
